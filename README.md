@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, soy Leonel</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Argentina..</h3>
+<h3 align="center">Un apasionado desarrollador web de Argentina..</h3>
 <p> Actualmente estoy en <b>Desarrollo Web Frontend</b><br>
   Ampliando mis conocimientos para <b>Desarrollo Web FullStack</b>
 </p>
