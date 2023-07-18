@@ -1,12 +1,12 @@
 <h1 align="center">Hola! 👋, soy Leonel</h1>
-<h3 align="center">Un apasionado desarrollador web de Argentina..</h3>
-<p> Actualmente estoy en <b>Desarrollo Web Frontend</b><br>
-  Ampliando mis conocimientos para <b>Desarrollo Web FullStack</b>
+<h3 align="center">Un desarrollador web de Argentina..</h3>
+<p><b>Desarrollo Web Frontend</b><br>
+  Ampliando mis conocimientos a <b>Desarrollo Web FullStack</b>
 </p>
 - 🌱 Estoy aprendiendo **Node JS y Express**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/leoneldonati](https://github.com/leoneldonati)
-- 💼 O puedes acceder a mi portafolio [https://leoneldonati.github.io/portfolio-react](https://leoneldonati.github.io/portfolio-react)
+- 💼 O puedes acceder a mi portafolio [leonelweb.ar](leonelweb.ar)
 
 
 <h3 align="center">Lenguajes y Herramientas:</h3>
