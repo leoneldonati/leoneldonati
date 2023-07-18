@@ -6,7 +6,7 @@
 - 🌱 Estoy aprendiendo **Node JS y Express**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/leoneldonati](https://github.com/leoneldonati)
-- 💼 O puedes acceder a mi portafolio [leonelweb.ar](leonelweb.ar)
+- 💼 O puedes acceder a mi portafolio [https://leonelweb.ar](Leonel Web)
 
 
 <h3 align="center">Lenguajes y Herramientas:</h3>
